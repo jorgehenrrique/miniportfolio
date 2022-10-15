@@ -13,9 +13,13 @@ const abas = document.querySelectorAll(".aba"); //passo 1
 
 abas.forEach(aba => { //passo 2
     aba.addEventListener("click", function() { //passo3
+
+        if(aba.classList.contains("selecionado")){
+            return;
+        }
         const abaSelecionada = document.querySelector(".aba.selecionado");
         abaSelecionada.classList.remove("selecionado");
 
-        aba.classList.add("selecionado")
+        aba.classList.add("selecionado"); //passo 4
     });
 });
