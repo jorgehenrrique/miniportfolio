@@ -1,0 +1,2 @@
+//comentario
+/* comentario */
