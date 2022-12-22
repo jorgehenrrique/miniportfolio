@@ -1,7 +1,7 @@
 body{
     /* background-image: url(../imagens/fundo-site.jpg); */
     background-image: url(../imagens/2.jpg); /*Outros navegadores*/
-    background-image: url(../imagens/1.mp4); /*No safari*/
+    /* background-image: url(../imagens/1.mp4); No safari */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
