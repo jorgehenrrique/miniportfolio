@@ -1,5 +1,6 @@
 body{
-    background-image: url(../imagens/fundo-site.jpg);
+    /* background-image: url(../imagens/fundo-site.jpg); */
+    background-image: url(../imagens/1.mp4);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -18,7 +19,7 @@ body{
     background-color: #070d12;
     width: 370px;
     border: 2px solid #e126d9;
-    border-radius: 10px;
+    border-radius: 20px;
     overflow: hidden;
 }
 
@@ -140,4 +141,3 @@ body{
 .redes-sociais .github{
     background-color: #545454;
 }
-
