@@ -1,5 +1,5 @@
 :root{
-    --border-radios: 20px;
+    --border-radius: 20px;
 }
 
 #bg-video {
@@ -33,7 +33,7 @@ body{
     background-color: #070d12;
     width: 370px;
     border: 2px solid #e126d9;
-    border-radius: var(--border-radios);
+    border-radius: var(--border-radius);
     overflow: hidden;
 }
 
@@ -140,7 +140,7 @@ body{
     padding: 10px;
     font-size: 20px;
     transition: opacity 0.3s ease-in-out;
-    border-radius: var(--border-radios);
+    border-radius: var(--border-radius);
 }
 
 .redes-sociais li a:hover{
