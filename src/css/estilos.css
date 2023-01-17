@@ -116,7 +116,9 @@ body{
     overflow-y: auto;
     padding-right: 15px;
 }
-
+.informacoes-abas .descricao p:nth-child(1){
+    margin-bottom: 10px;
+}
 .informacoes-abas .descricao span{
     color: #02d08f;
 }
