@@ -158,3 +158,18 @@ body{
 .redes-sociais .github{
     background-color: #545454;
 }
+
+/* || Footer */
+.footer{
+    position: fixed;
+    bottom: 0;
+    opacity: 30%;
+    transition: all .5s ease-out;
+    font-size: .5rem;
+}
+.heart{
+    color: #f00;
+}
+.footer:hover{
+    opacity: 90%;
+}
